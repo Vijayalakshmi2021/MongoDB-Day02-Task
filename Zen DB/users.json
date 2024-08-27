@@ -1,0 +1,38 @@
+[
+    {
+      "user_id": "U001",
+      "username": "jdoe",
+      "email": "jdoe@example.com",
+      "full_name": "John Doe",
+      "age": 29
+    },
+    {
+      "user_id": "U002",
+      "username": "asmith",
+      "email": "asmith@example.com",
+      "full_name": "Alice Smith",
+      "age": 34
+    },
+    {
+      "user_id": "U003",
+      "username": "bjohnson",
+      "email": "bjohnson@example.com",
+      "full_name": "Bob Johnson",
+      "age": 42
+    },
+    {
+      "user_id": "U004",
+      "username": "clark",
+      "email": "clark@example.com",
+      "full_name": "Clara Clark",
+      "age": 27
+    },
+    {
+      "user_id": "U005",
+      "username": "emartinez",
+      "email": "emartinez@example.com",
+      "full_name": "Eva Martinez",
+      "age": 31
+    }
+  ]
+  

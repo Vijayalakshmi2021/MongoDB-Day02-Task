@@ -1,0 +1,83 @@
+[
+    {
+      "topic_id": "T001",
+      "topic_name": "Artificial Intelligence",
+      "description": "Exploring the fundamentals and advancements in artificial intelligence.",
+      "created_by": "Dr. Alice Johnson",
+      "creation_date": "2020-10-01",
+      "status": "Active"
+    },
+    {
+      "topic_id": "T002",
+      "topic_name": "Machine Learning",
+      "description": "Introduction to machine learning algorithms and their applications.",
+      "created_by": "John Doe",
+      "creation_date": "2020-10-02",
+      "status": "Active"
+    },
+    {
+      "topic_id": "T003",
+      "topic_name": "Blockchain Technology",
+      "description": "Understanding the principles of blockchain technology and its use cases.",
+      "created_by": "Jane Smith",
+      "creation_date": "2020-10-05",
+      "status": "Active"
+    },
+    {
+      "topic_id": "T004",
+      "topic_name": "Cybersecurity",
+      "description": "Discussing various strategies and technologies for enhancing cybersecurity.",
+      "created_by": "Emily Carter",
+      "creation_date": "2020-10-07",
+      "status": "Pending"
+    },
+    {
+      "topic_id": "T005",
+      "topic_name": "Cloud Computing",
+      "description": "Overview of cloud computing services, models, and providers.",
+      "created_by": "Robert Brown",
+      "creation_date": "2020-10-10",
+      "status": "Active"
+    },
+    {
+      "topic_id": "T006",
+      "topic_name": "Data Privacy",
+      "description": "Exploring the importance of data privacy and related regulations.",
+      "created_by": "Sarah Davis",
+      "creation_date": "2020-10-12",
+      "status": "Inactive"
+    },
+    {
+      "topic_id": "T007",
+      "topic_name": "Internet of Things (IoT)",
+      "description": "Examining the impact and applications of IoT technologies in various industries.",
+      "created_by": "Michael Lee",
+      "creation_date": "2020-10-15",
+      "status": "Active"
+    },
+    {
+      "topic_id": "T008",
+      "topic_name": "Virtual Reality",
+      "description": "Discussing the advancements and applications of virtual reality technology.",
+      "created_by": "Laura Martinez",
+      "creation_date": "2020-10-18",
+      "status": "Pending"
+    },
+    {
+      "topic_id": "T009",
+      "topic_name": "5G Technology",
+      "description": "Understanding the features and implications of 5G technology.",
+      "created_by": "David Wilson",
+      "creation_date": "2020-10-20",
+      "status": "Active"
+    },
+    {
+      "topic_id": "T010",
+      "topic_name": "Robotic Process Automation (RPA)",
+      "description": "Exploring the use of RPA for automating repetitive tasks in business processes.",
+      "created_by": "Anna Thomas",
+      "creation_date": "2020-10-25",
+      "status": "Inactive"
+    }
+  ]
+  

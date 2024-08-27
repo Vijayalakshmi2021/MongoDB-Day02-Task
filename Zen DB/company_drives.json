@@ -1,0 +1,123 @@
+[
+    {
+      "drive_id": "D001",
+      "drive_name": "Tech Innovation Drive",
+      "description": "A drive to recruit tech innovators and engineers.",
+      "drive_date": "2020-09-05",
+      "students": [
+        "S001",
+        "S002",
+        "S003",
+        "S004"
+      ]
+    },
+    {
+      "drive_id": "D002",
+      "drive_name": "Marketing Talent Drive",
+      "description": "Recruitment drive for marketing and sales roles.",
+      "drive_date": "2020-09-10",
+      "students": [
+        "S005",
+        "S006",
+        "S007",
+        "S008"
+      ]
+    },
+    {
+      "drive_id": "D003",
+      "drive_name": "Finance Placement Drive",
+      "description": "A drive aimed at hiring finance professionals.",
+      "drive_date": "2020-09-15",
+      "students": [
+        "S009",
+        "S010",
+        "S011",
+        "S012"
+      ]
+    },
+    {
+      "drive_id": "D004",
+      "drive_name": "Engineering Careers Drive",
+      "description": "Placement drive for various engineering roles.",
+      "drive_date": "2020-09-20",
+      "students": [
+        "S013",
+        "S014",
+        "S015",
+        "S016"
+      ]
+    },
+    {
+      "drive_id": "D005",
+      "drive_name": "HR Recruitment Drive",
+      "description": "Drive for hiring candidates for HR positions.",
+      "drive_date": "2020-09-25",
+      "students": [
+        "S017",
+        "S018",
+        "S019",
+        "S020"
+      ]
+    },
+    {
+      "drive_id": "D006",
+      "drive_name": "Product Management Drive",
+      "description": "A recruitment drive focused on product management roles.",
+      "drive_date": "2020-10-01",
+      "students": [
+        "S021",
+        "S022",
+        "S023",
+        "S024"
+      ]
+    },
+    {
+      "drive_id": "D007",
+      "drive_name": "Data Science Placement Drive",
+      "description": "Specialized drive for data science roles.",
+      "drive_date": "2020-10-05",
+      "students": [
+        "S025",
+        "S026",
+        "S027",
+        "S028"
+      ]
+    },
+    {
+      "drive_id": "D008",
+      "drive_name": "Creative Design Careers Drive",
+      "description": "Drive for hiring creative design and multimedia professionals.",
+      "drive_date": "2020-10-10",
+      "students": [
+        "S029",
+        "S030",
+        "S031",
+        "S032"
+      ]
+    },
+    {
+      "drive_id": "D009",
+      "drive_name": "Consulting Careers Drive",
+      "description": "Placement drive for consulting positions.",
+      "drive_date": "2020-10-15",
+      "students": [
+        "S033",
+        "S034",
+        "S035",
+        "S036"
+      ]
+    },
+    {
+      "drive_id": "D010",
+      "drive_name": "Software Development Drive",
+      "description": "A drive for hiring software developers and engineers.",
+      "drive_date": "2020-10-20",
+      "students": [
+        "S037",
+        "S038",
+        "S039",
+        "S040"
+      ]
+    }
+  ]
+  

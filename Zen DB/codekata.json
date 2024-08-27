@@ -1,0 +1,73 @@
+[
+    {
+      "user_id": "U001",
+      "user_name": "Alice Johnson",
+      "total_problems_solved": 120,
+      "rank": "Gold",
+      "completion_percentage": 75.0
+    },
+    {
+      "user_id": "U002",
+      "user_name": "Bob Smith",
+      "total_problems_solved": 95,
+      "rank": "Silver",
+      "completion_percentage": 60.0
+    },
+    {
+      "user_id": "U003",
+      "user_name": "Charlie Davis",
+      "total_problems_solved": 140,
+      "rank": "Gold",
+      "completion_percentage": 85.0
+    },
+    {
+      "user_id": "U004",
+      "user_name": "Diana Lee",
+      "total_problems_solved": 75,
+      "rank": "Bronze",
+      "completion_percentage": 45.0
+    },
+    {
+      "user_id": "U005",
+      "user_name": "Edward Clark",
+      "total_problems_solved": 110,
+      "rank": "Gold",
+      "completion_percentage": 70.0
+    },
+    {
+      "user_id": "U006",
+      "user_name": "Fiona Martinez",
+      "total_problems_solved": 85,
+      "rank": "Silver",
+      "completion_percentage": 55.0
+    },
+    {
+      "user_id": "U007",
+      "user_name": "George Wilson",
+      "total_problems_solved": 100,
+      "rank": "Silver",
+      "completion_percentage": 65.0
+    },
+    {
+      "user_id": "U008",
+      "user_name": "Hannah Brown",
+      "total_problems_solved": 130,
+      "rank": "Gold",
+      "completion_percentage": 80.0
+    },
+    {
+      "user_id": "U009",
+      "user_name": "Ian Thomas",
+      "total_problems_solved": 90,
+      "rank": "Silver",
+      "completion_percentage": 58.0
+    },
+    {
+      "user_id": "U010",
+      "user_name": "Jane Roberts",
+      "total_problems_solved": 105,
+      "rank": "Gold",
+      "completion_percentage": 68.0
+    }
+  ]
+  
